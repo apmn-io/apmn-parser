@@ -1,6 +1,6 @@
 {
   "name": "apmn-parser",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "A parser for CMOF xml files",
   "directories": {
     "lib": "lib"
@@ -31,6 +31,7 @@
       "name": "apmn.io contributors",
       "url": "https://github.com/apmn-io"
     }
+  ],
   "license": "MIT",
   "devDependencies": {
     "chai": "^4.2.0",

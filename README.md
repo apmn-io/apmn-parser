@@ -1,6 +1,6 @@
-# cmof-parser
+# apmn-parser
 
-[![Build Status](https://travis-ci.org/bpmn-io/cmof-parser.svg?branch=master)](https://travis-ci.org/bpmn-io/cmof-parser)
+[![Build Status](https://github.com/apmn-io/apmn-parser.svg?branch=master)](https://github.com/apmn-io/apmn-parser)
 
 A parser for CMOF meta-model descriptors, written in JavaScript.
 
